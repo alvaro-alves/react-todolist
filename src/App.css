@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #FFEAA7;
+    background-color: #a7f9ff;
     font-family: "Architects Daughter", sans-serif;
     text-align: center;
 }
@@ -17,7 +17,7 @@ body {
     padding: 16px;
     min-height: 580px;
     max-width: 300px;
-    background-color: #f1f5f8;
+    background-color: #f2f1f8;
     background-image: radial-gradient(#bfc0c1 7.2%, transparent 0);
     background-size: 40px 40px;
     border-radius: 20px;
