@@ -25,14 +25,14 @@ function App() {
     return (
       <div className="todolist">
           <div className="heading">
-              <h1 className="title">To-Do List</h1>
+              <h1 className="title">Lista</h1>
           </div>
               <input
                   type="text"
                   value={input}
                   onChange={(event) => {setInput(event.target.value)}}
               />
-              <button onClick={addItem}>Add</button>
+              <button onClick={addItem}>Adicionar</button>
 
           <div className="items">
             <ul>
